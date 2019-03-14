@@ -1,3 +1,5 @@
+import java.util.TreeMap;
+
 public class Test11 {
     public static void main(String[] args) {
         int i =0;
@@ -7,7 +9,7 @@ public class Test11 {
                 i++;
                 System.out.println(i);
             }
-
         }
+        new TreeMap();
     }
 }
